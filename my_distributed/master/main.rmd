@@ -1,0 +1,13 @@
+# how are you
+
+```{r}
+library(ggplot2)
+data(diamonds)
+
+p <- ggplot(diamonds, aes(carat, price)) +
+  geom_smooth(method = "lm") +
+  theme_minimal()
+
+# Save the plot as PNG
+ggsave("carat_price_plot.png", plot = p)
+```
