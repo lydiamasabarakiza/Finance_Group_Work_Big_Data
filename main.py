@@ -6,7 +6,7 @@ import shutil
 # Define the base directory and file structure
 base_dir = 'my_distributed'
 master_dir = os.path.join(base_dir, 'master')
-child_dirs = [os.path.join(base_dir, f'child_{i}') for i in range(1, 3)]
+child_dirs = [os.path.join(base_dir, f'data_node_{i}') for i in range(1, 3)]
 
 # Initialize the file structure
 def initialize_files():

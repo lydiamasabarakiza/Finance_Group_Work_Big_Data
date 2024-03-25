@@ -1,4 +1,17 @@
-# how are you
+---
+title: "hahah"
+author: "Lydia Masabarakiza - 665389"
+date: "2024-03-25"
+output: 
+  html_document:
+    self_contained: false
+---
+
+```{r setup, include=TRUE}
+# Set the output filename
+knitr::opts_knit$set(output = 'analysis.html')
+```
+
 
 ```{r}
 library(ggplot2)
