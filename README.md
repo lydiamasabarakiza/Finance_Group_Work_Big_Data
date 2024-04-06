@@ -1,5 +1,12 @@
 # **Stock Performance Analysis and Prediction**
 
+## **Group Members**
+
+1. Diana Nduku
+2. Daniel Nzambuli
+3. Romeo Joseph Wamiri
+4. Lydia Masabarakiza
+
 ## **Introduction**
 
 In this project, we delve into the intricate influences on stock performance, analyzing the impacts of significant global events such as the COVID-19 pandemic, geopolitical conflicts, and presidential elections. Our objective is to gain a comprehensive understanding of the dynamic interplay between these factors, market sentiment, and stock price fluctuations.
